@@ -24,4 +24,9 @@ A Student and a software developer, <br>Studying Computer Sciences in University
 ---
 [![](https://visitcount.itsvg.in/api?id=Guts-BSM&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+###
+
+<img src="https://raw.githubusercontent.com/Guts-BSM/Guts-BSM/output/snake.svg" alt="Snake animation" />
+
+###
