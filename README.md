@@ -29,4 +29,5 @@ A Student and a software developer, <br>Studying Computer Sciences in University
 
 <img src="https://raw.githubusercontent.com/Guts-BSM/Guts-BSM/output/snake.svg" alt="Snake animation" />
 
+
 ###
