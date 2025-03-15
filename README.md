@@ -27,7 +27,9 @@ A Student and a software developer, <br>Studying Computer Sciences in University
 
 ###
 
-<img src="https://raw.githubusercontent.com/Guts-BSM/Guts-BSM/output/snake.svg" alt="Snake animation" />
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 ###
